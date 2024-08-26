@@ -1,0 +1,9 @@
+body{
+    background: blue
+    color: blueviolet
+    font-family: 'times new roman', times, serife;
+display: flex;
+justify-content: center;
+align-itens:center;
+
+}
